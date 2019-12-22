@@ -8,7 +8,7 @@ KShop.CopyShopCommand = "copyshop" //Dont add a ! or /.
 KShop.AdminShopCommand = "adminshop" //Dont add a ! or /.
 
 // Every ULX rank, which is able to edid/add/remove shops
-KShop.Admins = {"superadmin", "co-owner", "serverleiter", "supervisor", "headadmin"}
+KShop.Admins = {"superadmin", "supervisor", "owner"}
 
 // Maximum armor, a player can buy. (e.g. a Player has 80 Armor and buys a package of 25 armor. If this is set to 100 it will never)
 // go higher that 100.
